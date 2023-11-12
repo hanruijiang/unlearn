@@ -1,0 +1,9 @@
+[submodule "libraries"]
+	path = libraries
+	url = https://github.com/AdityaGolatkar/SelectiveForgetting.git
+[submodule "libraries/SelectiveForgetting"]
+	path = libraries/SelectiveForgetting
+	url = https://github.com/AdityaGolatkar/SelectiveForgetting.git
+[submodule "libraries/Unlearnable-Examples"]
+	path = libraries/Unlearnable-Examples
+	url = https://github.com/HanxunH/Unlearnable-Examples.git
