@@ -7,3 +7,12 @@
 [submodule "libraries/Unlearnable-Examples"]
 	path = libraries/Unlearnable-Examples
 	url = https://github.com/HanxunH/Unlearnable-Examples.git
+[submodule "libraries/kpriors"]
+	path = libraries/kpriors
+	url = https://github.com/team-approx-bayes/kpriors
+[submodule "libraries/LCODEC-deep-unlearning"]
+	path = libraries/LCODEC-deep-unlearning
+	url = https://github.com/vsingh-group/LCODEC-deep-unlearning.git
+[submodule "libraries/unrolling-sgd"]
+	path = libraries/unrolling-sgd
+	url = https://github.com/cleverhans-lab/unrolling-sgd.git
