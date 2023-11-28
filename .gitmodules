@@ -16,3 +16,6 @@
 [submodule "libraries/unrolling-sgd"]
 	path = libraries/unrolling-sgd
 	url = https://github.com/cleverhans-lab/unrolling-sgd.git
+[submodule "libraries/DeltaGrad"]
+	path = libraries/DeltaGrad
+	url = https://github.com/thuwuyinjun/DeltaGrad
