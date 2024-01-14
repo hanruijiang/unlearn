@@ -19,3 +19,6 @@
 [submodule "libraries/DeltaGrad"]
 	path = libraries/DeltaGrad
 	url = https://github.com/thuwuyinjun/DeltaGrad
+[submodule "libraries/SISA"]
+	path = libraries/SISA
+	url = https://github.com/cleverhans-lab/machine-unlearning.git
